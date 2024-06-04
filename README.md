@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @rinabaral
-- 🌱 I’m currently learning JavaSpringBoot
-
+- 🌱 I’m currently working as Full Stack Developer.
+- Working in Springboot application with RESTApis.
+- Using JPA and Hibernate for ORM.
+- Using Angular for consuming the backend API in frontend.
