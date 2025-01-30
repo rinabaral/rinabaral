@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rinabaral
 - 🌱 Experienced as Full Stack Developer.
 - Developed and enhanced RESTful APIs using Spring Boot for secure and efficient application functionality.
-- Using JPA and Hibernate for ORM.
 - Developed and maintained monolithic architecture applications using Java 8/17, implementing dependency injection and domain-driven design with design patterns such as Facade, Strategy, and Builder.
 - Utilized JPA and Hibernate for efficient database management, applying @Transactional annotations for smooth transaction control.
 - Integrated Quartz Scheduler for automated job scheduling and background tasks.
