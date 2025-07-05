@@ -18,5 +18,5 @@
 
 My GitHub Stats
 -
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rinabaral)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinabaral&layout=compact)
 ****
