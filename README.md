@@ -15,8 +15,3 @@
 -
 [![My Skills](https://skillicons.dev/icons?i=java,hibernate,mysql,postman,git,docker,jenkins,angular,js,python,gherkin)](https://skillicons.dev)
 ****
-
-My GitHub Stats
--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinabaral&layout=compact)
-****
